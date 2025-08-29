@@ -26,7 +26,8 @@ This app supports conversions for the following quantities:
 ```bash
 git clone https://github.com/Rakshitgupta9/Unit-Converter.git
 cd Unit-Converte
-
+start index.html 
+```
 
 👨‍💻 Author
 
